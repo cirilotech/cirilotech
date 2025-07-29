@@ -121,6 +121,8 @@ Me chamo Gabriel Cirilo, tenho 18 anos e sou natural de São Paulo. Atualmente, 
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 <p>
   <img 

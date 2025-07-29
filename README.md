@@ -137,6 +137,7 @@ Me chamo Gabriel Cirilo, tenho 18 anos e sou natural de São Paulo. Atualmente, 
 />
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />

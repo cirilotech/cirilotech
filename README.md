@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Cirilo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, na Universidade Paulista UNIP. Pronto para dar o pontapé inicial na minha carreira em tecnologia e inovação. Conta Comigo!📊 
+Me chamo Gabriel Cirilo, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, na Universidade Paulista UNIP. Pronto para dar o pontapé inicial na minha carreira em tecnologia e inovação. Conta Comigo!📊 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -47,7 +47,6 @@ Me chamo Gabriel Cirilo, tenho 18 anos e sou natural de São Paulo. Atualmente, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 <br/>
 <br/>
